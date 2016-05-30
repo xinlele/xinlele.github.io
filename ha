@@ -93,7 +93,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xmzonline.com/ha" data-id="ciototvi70004zjf91eoq5doc" class="article-share-link">Share</a>
+      <a data-url="http://xmzonline.com/ha" data-id="ciotu2yrw0003iuf9bgwndu5j" class="article-share-link">Share</a>
       
       
     </footer>
