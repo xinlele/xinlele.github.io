@@ -3,17 +3,21 @@
 <head>
   <meta charset="utf-8">
   
-  <title>心乐乐的blog</title>
+  <title>Hello World | 心乐乐的blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="学习 分享  交流">
-<meta property="og:type" content="website">
-<meta property="og:title" content="心乐乐的blog">
-<meta property="og:url" content="http://xmzonline.com/index.html">
+  <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hello World">
+<meta property="og:url" content="http://xmzonline.com/hello-world">
 <meta property="og:site_name" content="心乐乐的blog">
-<meta property="og:description" content="学习 分享  交流">
+<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick">
+<meta property="og:updated_time" content="2016-05-30T03:24:34.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="心乐乐的blog">
-<meta name="twitter:description" content="学习 分享  交流">
+<meta name="twitter:title" content="Hello World">
+<meta name="twitter:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
+Quick">
   
     <link rel="alternate" href="/atom.xml" title="心乐乐的blog" type="application/atom+xml">
   
@@ -66,81 +70,7 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-    <article id="post-try-again" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/try-again" class="article-date">
-  <time datetime="2016-05-30T06:45:01.000Z" itemprop="datePublished">2016-05-30</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/try-again">try again</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://xmzonline.com/try-again" data-id="ciotnk7bg0000trf92n8eqv5o" class="article-share-link">Share</a>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-  
-    <article id="post-enen" class="article article-type-post" itemscope itemprop="blogPost">
-  <div class="article-meta">
-    <a href="/enen" class="article-date">
-  <time datetime="2016-05-30T03:47:55.000Z" itemprop="datePublished">2016-05-30</time>
-</a>
-    
-  </div>
-  <div class="article-inner">
-    
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/enen">enen</a>
-    </h1>
-  
-
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        
-      
-    </div>
-    <footer class="article-footer">
-      <a data-url="http://xmzonline.com/enen" data-id="ciotnk7bn0002trf9tmzf538x" class="article-share-link">Share</a>
-      
-      
-    </footer>
-  </div>
-  
-</article>
-
-
-  
-    <article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
+        <section id="main"><article id="post-hello-world" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/hello-world" class="article-date">
   <time datetime="2016-05-27T06:18:35.000Z" itemprop="datePublished">2016-05-27</time>
@@ -153,8 +83,8 @@
       <header class="article-header">
         
   
-    <h1 itemprop="name">
-      <a class="article-title" href="/hello-world">Hello World</a>
+    <h1 class="article-title" itemprop="name">
+      Hello World
     </h1>
   
 
@@ -181,10 +111,23 @@
     </footer>
   </div>
   
-</article>
-
+    
+<nav id="article-nav">
+  
+    <a href="/enen" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          enen
+        
+      </div>
+    </a>
+  
+  
+</nav>
 
   
+</article>
 
 </section>
         
