@@ -8,7 +8,7 @@
   <meta name="description" content="学习 分享  交流">
 <meta property="og:type" content="article">
 <meta property="og:title" content="come">
-<meta property="og:url" content="http://xmzonline.com/come">
+<meta property="og:url" content="http://xinlele.github.io/come">
 <meta property="og:site_name" content="心乐乐的blog">
 <meta property="og:description" content="学习 分享  交流">
 <meta property="og:updated_time" content="2016-05-30T06:57:00.000Z">
@@ -61,7 +61,7 @@
         <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xmzonline.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xinlele.github.io"></form>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xmzonline.com/come" data-id="ciotnxgpw0000vxf96dq7vxu4" class="article-share-link">Share</a>
+      <a data-url="http://xinlele.github.io/come" data-id="cioto15uc0001xbf9gtisymfp" class="article-share-link">Share</a>
       
       
     </footer>
@@ -101,6 +101,15 @@
   
     
 <nav id="article-nav">
+  
+    <a href="/ha" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          ha
+        
+      </div>
+    </a>
   
   
     <a href="/try-again" id="article-nav-older" class="article-nav-link-wrap">
@@ -140,6 +149,10 @@
     <h3 class="widget-title">最新文章</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/ha">ha</a>
+          </li>
         
           <li>
             <a href="/come">come</a>

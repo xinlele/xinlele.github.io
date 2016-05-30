@@ -8,7 +8,7 @@
   <meta name="description" content="学习 分享  交流">
 <meta property="og:type" content="article">
 <meta property="og:title" content="try again">
-<meta property="og:url" content="http://xmzonline.com/try-again">
+<meta property="og:url" content="http://xinlele.github.io/try-again">
 <meta property="og:site_name" content="心乐乐的blog">
 <meta property="og:description" content="学习 分享  交流">
 <meta property="og:updated_time" content="2016-05-30T06:45:01.000Z">
@@ -61,7 +61,7 @@
         <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xmzonline.com"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xinlele.github.io"></form>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xmzonline.com/try-again" data-id="ciotnxgqc0002vxf9jc8k4opl" class="article-share-link">Share</a>
+      <a data-url="http://xinlele.github.io/try-again" data-id="cioto15uk0004xbf9mvqfqpqb" class="article-share-link">Share</a>
       
       
     </footer>
@@ -149,6 +149,10 @@
     <h3 class="widget-title">最新文章</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/ha">ha</a>
+          </li>
         
           <li>
             <a href="/come">come</a>

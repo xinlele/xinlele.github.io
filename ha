@@ -3,16 +3,17 @@
 <head>
   <meta charset="utf-8">
   
-  <title>归档: 2016 | 心乐乐的blog</title>
+  <title>ha | 心乐乐的blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="学习 分享  交流">
-<meta property="og:type" content="website">
-<meta property="og:title" content="心乐乐的blog">
-<meta property="og:url" content="http://xinlele.github.io/archives/2016/index.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ha">
+<meta property="og:url" content="http://xinlele.github.io/ha">
 <meta property="og:site_name" content="心乐乐的blog">
 <meta property="og:description" content="学习 分享  交流">
+<meta property="og:updated_time" content="2016-05-30T07:00:00.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="心乐乐的blog">
+<meta name="twitter:title" content="ha">
 <meta name="twitter:description" content="学习 分享  交流">
   
     <link rel="alternate" href="/atom.xml" title="心乐乐的blog" type="application/atom+xml">
@@ -66,115 +67,51 @@
   </div>
 </header>
       <div class="outer">
-        <section id="main">
-  
-  
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2016" class="archive-year">2016</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/ha" class="archive-article-date">
-  <time datetime="2016-05-30T07:00:00.000Z" itemprop="datePublished">5月 30</time>
+        <section id="main"><article id="post-ha" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/ha" class="article-date">
+  <time datetime="2016-05-30T07:00:00.000Z" itemprop="datePublished">2016-05-30</time>
 </a>
-      
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/ha">ha</a>
+    <h1 class="article-title" itemprop="name">
+      ha
     </h1>
   
 
-    </header>
-  </div>
-</article>
-  
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/come" class="archive-article-date">
-  <time datetime="2016-05-30T06:57:00.000Z" itemprop="datePublished">5月 30</time>
-</a>
+    <div class="article-entry" itemprop="articleBody">
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/come">come</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/try-again" class="archive-article-date">
-  <time datetime="2016-05-30T06:45:01.000Z" itemprop="datePublished">5月 30</time>
-</a>
+        
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/try-again">try again</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/enen" class="archive-article-date">
-  <time datetime="2016-05-30T03:47:55.000Z" itemprop="datePublished">5月 30</time>
-</a>
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://xinlele.github.io/ha" data-id="cioto15ty0000xbf9dqnloc13" class="article-share-link">Share</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/enen">enen</a>
-    </h1>
-  
-
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      <a href="/hello-world" class="archive-article-date">
-  <time datetime="2016-05-27T06:18:35.000Z" itemprop="datePublished">5月 27</time>
-</a>
       
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/hello-world">Hello World</a>
-    </h1>
-  
-
-    </header>
+    </footer>
   </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/come" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">come</div>
+    </a>
+  
+</nav>
+
+  
 </article>
-  
-  
-    </div></section>
-  
 
 </section>
         
