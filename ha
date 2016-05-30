@@ -8,7 +8,7 @@
   <meta name="description" content="学习 分享  交流">
 <meta property="og:type" content="article">
 <meta property="og:title" content="ha">
-<meta property="og:url" content="http://xinlele.github.io/ha">
+<meta property="og:url" content="http://xmzonline.com/ha">
 <meta property="og:site_name" content="心乐乐的blog">
 <meta property="og:description" content="学习 分享  交流">
 <meta property="og:updated_time" content="2016-05-30T07:00:00.000Z">
@@ -61,7 +61,7 @@
         <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xinlele.github.io"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xmzonline.com"></form>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xinlele.github.io/ha" data-id="cioto15ty0000xbf9dqnloc13" class="article-share-link">Share</a>
+      <a data-url="http://xmzonline.com/ha" data-id="ciototvi70004zjf91eoq5doc" class="article-share-link">Share</a>
       
       
     </footer>
@@ -101,6 +101,15 @@
   
     
 <nav id="article-nav">
+  
+    <a href="/haha" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          haha
+        
+      </div>
+    </a>
   
   
     <a href="/come" id="article-nav-older" class="article-nav-link-wrap">
@@ -142,6 +151,10 @@
       <ul>
         
           <li>
+            <a href="/haha">haha</a>
+          </li>
+        
+          <li>
             <a href="/ha">ha</a>
           </li>
         
@@ -155,10 +168,6 @@
         
           <li>
             <a href="/enen">enen</a>
-          </li>
-        
-          <li>
-            <a href="/hello-world">Hello World</a>
           </li>
         
       </ul>

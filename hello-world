@@ -9,7 +9,7 @@
 Quick">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello World">
-<meta property="og:url" content="http://xinlele.github.io/hello-world">
+<meta property="og:url" content="http://xmzonline.com/hello-world">
 <meta property="og:site_name" content="心乐乐的blog">
 <meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
 Quick">
@@ -64,7 +64,7 @@ Quick">
         <a id="nav-search-btn" class="nav-icon" title="搜索"></a>
       </nav>
       <div id="search-form-wrap">
-        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xinlele.github.io"></form>
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://xmzonline.com"></form>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ Quick">
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xinlele.github.io/hello-world" data-id="cioto15uf0002xbf9euzzz5zh" class="article-share-link">Share</a>
+      <a data-url="http://xmzonline.com/hello-world" data-id="ciototvi40003zjf91n0u3k6j" class="article-share-link">Share</a>
       
       
     </footer>
@@ -158,6 +158,10 @@ Quick">
       <ul>
         
           <li>
+            <a href="/haha">haha</a>
+          </li>
+        
+          <li>
             <a href="/ha">ha</a>
           </li>
         
@@ -171,10 +175,6 @@ Quick">
         
           <li>
             <a href="/enen">enen</a>
-          </li>
-        
-          <li>
-            <a href="/hello-world">Hello World</a>
           </li>
         
       </ul>
