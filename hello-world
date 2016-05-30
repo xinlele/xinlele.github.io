@@ -105,7 +105,7 @@ Quick">
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xmzonline.com/hello-world" data-id="ciotnk7bk0001trf947d4xy1e" class="article-share-link">Share</a>
+      <a data-url="http://xmzonline.com/hello-world" data-id="ciotnxgq90001vxf9e3f6g0ar" class="article-share-link">Share</a>
       
       
     </footer>
@@ -156,6 +156,10 @@ Quick">
     <h3 class="widget-title">最新文章</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/come">come</a>
+          </li>
         
           <li>
             <a href="/try-again">try again</a>

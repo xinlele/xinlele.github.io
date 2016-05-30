@@ -93,7 +93,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://xmzonline.com/try-again" data-id="ciotnk7bg0000trf92n8eqv5o" class="article-share-link">Share</a>
+      <a data-url="http://xmzonline.com/try-again" data-id="ciotnxgqc0002vxf9jc8k4opl" class="article-share-link">Share</a>
       
       
     </footer>
@@ -101,6 +101,15 @@
   
     
 <nav id="article-nav">
+  
+    <a href="/come" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          come
+        
+      </div>
+    </a>
   
   
     <a href="/enen" id="article-nav-older" class="article-nav-link-wrap">
@@ -140,6 +149,10 @@
     <h3 class="widget-title">最新文章</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/come">come</a>
+          </li>
         
           <li>
             <a href="/try-again">try again</a>
